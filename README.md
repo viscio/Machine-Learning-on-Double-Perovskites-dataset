@@ -3,7 +3,7 @@ Couple of machine learning scripts (in jupyter notebook format) to predict the s
 
 ![alt text](https://github.com/viscio/Machine-Learning-on-Double-Perovskites-dataset/blob/master/DP_structure_spacegroup_225.png)
 
-Double perovskites have atoms arranged in a lattice as shown in the figure, with formula A2B'B''C6 A<sub>2 B' B'' C<sub>6
+Double perovskites have atoms arranged in a lattice as shown in the figure, with formula A<sub>2;B'B''C<sub>6;
 
 In this folder, you can find different Jupyter notebook: 
 
